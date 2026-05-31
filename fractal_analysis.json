@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "software": "Fractal Explorer",
+    "version": "3.0",
+    "export_time": "2026-01-29T03:01:21.107333"
+  },
+  "data": {
+    "fractal": {
+      "name": "mandelbrot",
+      "center_re": -0.5,
+      "center_im": 0.0,
+      "scale": 3.5,
+      "max_iterations": 200,
+      "zoom_level": 1.0
+    },
+    "render_stats": {
+      "width": 800,
+      "height": 600,
+      "total_pixels": 480000,
+      "render_time_ms": 366.3879000014276,
+      "pixels_per_second": 1310086.932450907,
+      "backend": "CPU: CPU (Numba JIT)"
+    }
+  }
+}
