@@ -143,7 +143,7 @@ python --version
 ## 2. Клонування репозиторію
 
 ```bash
-git clone https://github.com/Sbwosmth/Fractal-Explorer
+git clone [https://github.com/Sbwosmth/Fractal-Explorer](https://github.com/Sbwosmth/Fractal-Explorer.git)
 
 cd FractalExplorer
 ```
